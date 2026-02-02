@@ -4,10 +4,10 @@ build_search_index = false
 generate_feeds = false
 minify_html = true
 
-[markdown]
-highlight_code = false
-highlight_theme = "css"
-smart_punctuation = true
+# [markdown]
+# highlight_code = false
+# highlight_theme = "css"
+# smart_punctuation = true
 
 [extra]
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme."
