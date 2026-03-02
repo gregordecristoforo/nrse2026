@@ -4,21 +4,19 @@ title = "2026 Nordic-RSE Conference"
 
 # Welcome
 
-Are you passionate about research software? Whether you develop research tools, support scientific software, or are simply curious about how good code makes research better — this is the perfect space for you. Join us for two days of learning, networking, and connecting with people who care about research software at the Nordic Research Software Engineering Conference.
+<!-- Are you passionate about research software? Whether you develop research tools, support scientific software, or are simply curious about how good code makes research better — this is the perfect space for you.  -->
+Join us for two days of learning, networking, and connecting with people who care about research software at the Nordic Research Software Engineering Conference.
 
 **Dates:** June 9-10, 2026  
 **Location:** [Auditorium Cerebrum, UiT - The Arctic University of Norway, Tromsø](#venue)  
 **Times:** [9:00 - 16:00 each day](#schedule)
 
-This community-driven conference is for anyone working at the interface between research and digital technologies - from software developers and data scientists to system administrators and research supporters.
-
-**Who Should Attend?**
-
-You don't need to call yourself an "RSE" to join. If you write code for research, manage research software, support researchers with tools, or are just curious — this conference is for you. We welcome researchers, students, developers, data scientists, system administrators, and anyone else interested in research software, regardless of background.
+<!-- This community-driven conference is for anyone working at the interface between research and digital technologies - from software developers and data scientists to system administrators and research supporters. -->
+The 2026 edition of the Nordic-RSE conference is organized by Nordic-RSE and UiT - The Arctic University of Norway.
 
 <div class="logo-container">
-    <img src="UiT_Logo_Bla.png" alt="UiT Logo" class="logo">
     <img src="NRSE_logo.png" alt="NRSE Logo" class="logo">
+    <img src="UiT_Logo_Bla.png" alt="UiT Logo" class="logo">
 </div>
 
 
@@ -27,9 +25,15 @@ You don't need to call yourself an "RSE" to join. If you write code for research
 
 # About the Conference {#about}
 
-Nordic-RSE is a grass-root professional association providing a networking platform for Research Software Engineers in the Nordic region. We believe the code supporting research deserves as much attention as the results it produces. Unlike traditional academic conferences that focus on research results, we focus on the tools, practices, and challenges that enable those results.
 
-The 2026 conference features a unique two-day format:
+We believe the code supporting research deserves as much attention as the results it produces. Unlike traditional academic conferences that focus on research results, we focus on the tools, practices, and challenges that enable those results.
+
+**Who Should Attend?**
+
+Are you passionate about research software? Whether you develop research tools, support scientific software, or are simply curious about how good code makes research better — this is the perfect space for you. 
+We welcome researchers, students, developers, data scientists, system administrators, and anyone else interested in research software, regardless of background.
+
+The 2026 conference features a two-day format:
 
 
 **Day 1 (June 9):** Open to the broader community including students, researchers, and private companies - learn about research software engineering and its impact across sectors.
@@ -37,90 +41,7 @@ The 2026 conference features a unique two-day format:
 **Day 2 (June 10):** Focused sessions for the RSE community - share experiences, discuss best practices, and connect with fellow RSEs.
 
 
-## Registration Fee: € 25,-
-
-{{ new_block() }}
-
-
-# Important Dates
-
-**Call for Participation:** Deadline April 27, 2026
-
-**Registration**: Will open soon
-
-**Conference Dates:** June 9-10, 2026
-
-{{ new_block() }}
-
-# Call for Abstracts {#cfp}
-
-The call for abstracts is open! Submit your abstract [here.](https://indico.neic.no/event/290/abstracts/#submit-abstract)
-
-If you are working as research software engineer or are passionate about open-source (be it coding or community building), you are warmly encourage to present at the Nordic-RSE conference.
-
-Relevant topics include but are not limited to:
-
-- Developing research software
-- Community building
-- Teaching programming to researchers
-- Reproducible science
-- Open-source, open-science, open access
-- High-performance computing
-
-### Formats:
-
-- **Discussion session**: 1 hour session for an interactive discussion
-around a theme
-- **Talk**: 20 minutes talk (including 5 minutes for questions)
-- **Lightning talk**: 10 minutes talk (including 3 minutes for question), particularly suitable for short demos or presenting WIP projects
-- **Tutorial**: 1 hour walkthrough about a technical topic, could be a tool you use, a programming language, a way you do things, etc.
-- **Poster**: Don't want to prepare a talk, but still have something to share? Submit a poster!
-
-{{ new_block() }}
-
-# Venue {#venue}
-
-The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) .
-
-**Address:**
-
-UiT - The Arctic University of Norway  
-Universitetsvegen 61  
-9019 Tromsø  
-Norway
-
-[Google Maps link](https://maps.app.goo.gl/YCQriKUMACmXu7Qp6)
-
-### Getting to UiT:
-- **By Air:** Tromsø Airport (Langnes) is located about 5 km from the city center. Local buses and taxis connect the airport to the city and university.
-- **By Bus:** Public transportation serves the university campus. Check [Tromsø public transport](https://www.tromskortet.no/) for routes and schedules.
-- **Parking:** Limited parking is available on campus.
-
-More detailed directions and campus maps will be provided closer to the conference date.
-
-
-{{ new_block() }}
-
-
-# Schedule {#schedule}
-
-The conference runs from **9:00 to 16:00** on both days.
-
-### What to Expect:
-- Keynote presentations from invited speakers
-- Technical talks and demonstrations
-- Discussion sessions and panels
-- Poster presentations
-- Networking opportunities
-- Coffee breaks, lunch, and afternoon refreshments included
-
-### Conference Format:
-- **Day 1 (June 9):** Open sessions for students, researchers, and industry partners
-- **Day 2 (June 10):** RSE-focused sessions for practitioners and community members
-
-The detailed program will be published after the call for participation closes and submissions are reviewed.
-
-
+### Registration Fee: € 25,-
 {{ new_block() }}
 
 # Invited Speakers {#speakers}
@@ -175,6 +96,120 @@ Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Sof
 
 {{ new_block() }}
 
+
+# Important Dates {#call-for-abstracts}
+
+**Call for Abstracts:** Deadline April 27, 2026
+
+**Registration**: Will open soon
+
+**Conference Dates:** June 9-10, 2026
+
+{{ new_block() }}
+
+# Call for Abstracts 
+
+The call for abstracts is open! Submit your abstract [here.](https://indico.neic.no/event/290/abstracts/#submit-abstract)
+
+<!-- If you are working as research software engineer or are passionate about open-source (be it coding or community building), you are warmly encourage to present at the Nordic-RSE conference. -->
+
+Relevant topics include but are not limited to:
+
+- Developing research software
+- Community building
+- Teaching programming to researchers
+- Reproducible science
+- Open-source, open-science, open access
+- High-performance computing
+
+### Formats:
+
+- **Discussion session**: 1 hour session for an interactive discussion
+around a theme
+- **Talk**: 20 minutes talk (including 5 minutes for questions)
+- **Lightning talk**: 10 minutes talk (including 3 minutes for question), particularly suitable for short demos or presenting WIP projects
+- **Tutorial**: 1 hour walkthrough about a technical topic, could be a tool you use, a programming language, a way you do things, etc.
+- **Poster**: Don't want to prepare a talk, but still have something to share? Submit a poster!
+
+{{ new_block() }}
+
+# Need another reason to come?
+
+The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, immediately following the Nordic-RSE Conference. This workshop will feature an updated version of the previous [LUMI AI Workshop](https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/) held at KTH, Stockholm.
+
+More details, including registration links, will be shared soon.
+
+{{ new_block() }}
+
+# Venue {#venue}
+
+The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) .
+
+**Address:**
+
+UiT - The Arctic University of Norway  
+Universitetsvegen 61  
+9019 Tromsø  
+Norway
+
+[Google Maps link](https://maps.app.goo.gl/YCQriKUMACmXu7Qp6)
+
+### Getting to UiT:
+- **By Air:** Tromsø Airport (Langnes) is located about 5 km from the city center. Local buses and taxis connect the airport to the city and university.
+- **By Bus:** Public transportation serves the university campus. Check [Tromsø public transport](https://www.tromskortet.no/) for routes and schedules.
+- **Parking:** Limited parking is available on campus.
+
+More detailed directions and campus maps will be provided closer to the conference date.
+
+
+{{ new_block() }}
+
+
+# Schedule {#schedule}
+
+The conference runs from **9:00 to 16:00** on both days.
+
+### What to Expect:
+- Keynote presentations from invited speakers
+- Technical talks and demonstrations
+- Discussion sessions and panels
+- Poster presentations
+- Networking opportunities
+- Coffee breaks, lunch, and afternoon refreshments included
+
+### Conference Format:
+- **Day 1 (June 9):** Open sessions for students, researchers, and industry partners
+- **Day 2 (June 10):** RSE-focused sessions for practitioners and community members
+
+The detailed program will be published after the call for abstracts closes and submissions are reviewed.
+
+{{ new_block() }}
+
+
+
+# Catering
+
+All conference participants will enjoy full catering on both days.
+
+- Morning coffee and refreshments
+- Lunch each day
+- Afternoon cake and coffee
+
+<!-- **Plus social dinner (BBQ if the weather permits) on day 1** -->
+
+**Conference BBQ:**
+- **Venue:** BFE Naust (to be confirmed)
+- **Date:** Evening of June 9 or 10 (to be announced)
+
+
+Graciously covered by the UiT IT Department for all registered participants.
+
+Dietary requirements will be collected during registration to accommodate all participants.
+
+
+
+{{ new_block() }}
+
 # Accommodation {#accommodation}
 
 We have arranged special accommodation options for conference participants:
@@ -213,19 +248,18 @@ We will update this section with more hotel options and potential conference rat
 {{ new_block() }}
 
 
-# Getting to Tromsø
+# Getting around in Tromsø
 
 Tromsø is located in Northern Norway, 350 km north of the Arctic Circle.
 
-### By Air:
-- **Tromsø Airport (TOS)** has direct flights from Oslo, Bergen, Trondheim, and other major Nordic cities
-- International connections typically route through Oslo
-- The airport is 5 km from the city centre
+<!-- ### By Air: -->
+<!-- - **Tromsø Airport (TOS)** has direct flights from Oslo, Bergen, Trondheim, and other major Nordic cities -->
+<!-- - The airport is 5 km from the city centre -->
 
 
-### Getting Around Tromsø by Public Transportation:
+### Public Transportation:
 
-Getting around Tromsø is easy with public buses:
+Getting around in Tromsø is easy with public buses:
 
 - Web page: https://svipper.no/
 - **Ticket App:** Download the **Svipper** app for <a href="https://play.google.com/store/apps/details?id=no.trfylke.svipper.production" target="_blank" rel="noopener">Android</a> or <a href="https://apps.apple.com/no/app/svipper/id6502283055?l=nb" target="_blank" rel="noopener">iOS</a>
@@ -248,8 +282,6 @@ Getting around Tromsø is easy with public buses:
 
 
 {{ new_block() }}
-
-
 # Things to Do in Tromsø
 
 Tromsø offers a unique blend of Arctic nature and urban culture. Extend your stay to experience:
@@ -263,73 +295,18 @@ Tromsø offers a unique blend of Arctic nature and urban culture. Extend your st
 **Culture & City Life:**
 - Arctic museums and galleries
 - Sami cultural experiences
-- City center exploration with cafes, restaurants, and shops
 - Historic wooden architecture
+<!-- - City center exploration with cafes, restaurants, and shops -->
 
-**Organized Activities (To Be Confirmed):**
-- Sherpatrappa hike
-- Varden viewpoint visit
-- Guided city tour
+<!-- **Organized Activities (To Be Confirmed):** -->
+<!-- - Sherpatrappa hike -->
+<!-- - Varden viewpoint visit -->
+<!-- - Guided city tour -->
 
 For comprehensive tourist information, visit [Visit Tromsø](https://www.visittromso.no/).
 
 **Dress for Arctic Summer:**
 Even in June, bring layers and prepare for variable weather. Temperatures are mild but can be cool, especially in the evening.
-
-
-{{ new_block() }}
-
-
-# Catering
-
-All conference participants will enjoy full catering on both days.
-
-- Morning coffee and refreshments
-- Lunch each day
-- Afternoon cake and coffee
-
-**Plus social dinner (BBQ if the weather permits) on day 1**
-
-
-Graciously covered by the UiT IT Department for all registered participants.
-
-Dietary requirements will be collected during registration to accommodate all participants.
-
-
-{{ new_block() }}
-
-
-# Social Program
-
-Beyond the formal sessions, we're planning social activities to help you connect with fellow RSEs:
-
-**Conference Dinner:**
-- **Venue:** BFE Naust (to be confirmed)
-- **Date:** Evening of June 9 or 10 (to be announced)
-
-**Optional Activities:**
-- Sherpatrappa hike
-- Varden viewpoint excursion
-- Tromsø city guided tour
-
-Details about timing, costs, and registration for social activities will be announced closer to the conference date.
-
-
-{{ new_block() }}
-
-# Need another reason to come?
-
-The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, immediately following the Nordic-RSE Conference. This workshop will feature an updated version of the previous [LUMI AI Workshop](https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/) held at KTH, Stockholm.
-
-More details, including registration links, will be shared soon.
-
-{{ new_block() }}
-
-# Organizers
-
-The Nordic-RSE Conference 2026 is organized by volunteers from the Research Software Engineering community. Organizing committee members will be listed here soon.
-
-For questions or inquiries, please contact: **secretary@nordic-rse.org**
 
 
 {{ new_block() }}
