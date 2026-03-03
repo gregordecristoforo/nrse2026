@@ -202,7 +202,7 @@ All conference participants will enjoy full catering on both days.
 - **Date:** Evening of June 9 or 10 (to be announced)
 
 
-Graciously covered by the UiT IT Department for all registered participants.
+All food is generously provided by the UiT IT Department for all registered participants
 
 Dietary requirements will be collected during registration to accommodate all participants.
 
